@@ -4,3 +4,8 @@
 .guide-details{align-self:center;padding:10px 20px}.guide-details h3{font-size:27px}.guide-details>p,.guide-details ul{color:var(--muted);font-size:14px}.guide-details ul{padding-left:20px;margin:20px 0}.guide-details .download-note{font-size:11px}.guide-details .eyebrow{color:var(--accent);font-size:11px}@media(max-width:480px){.guide-details{padding:0}}
 
 .channel-logo{display:block;width:76px;height:76px;object-fit:contain;background:#fff}footer{align-items:center}@media(max-width:800px){header .channel-logo{width:64px;height:64px}}
+
+.gift-strip{display:flex;justify-content:center;align-items:center;gap:10px;padding:13px 5%;background:#2a2318;border-bottom:1px solid var(--line);font-size:11px;letter-spacing:2px;font-weight:700;text-align:center;color:var(--accent)}
+.gift-strip span{color:var(--ink)}
+.gift-strip:hover{background:#332a1d}
+@media(max-width:480px){.gift-strip{font-size:10px;letter-spacing:1.4px}}
